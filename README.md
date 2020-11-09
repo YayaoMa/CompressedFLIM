@@ -11,7 +11,7 @@ Figure 4: [neuron spiking]
 
 Figure S6-S7: [cardiomyocyte beating]
 
-Figure S8: [H&E slide]
+Figure S8: [H&E slide](https://figshare.com/s/d60e9d4c93739800ecdd)
 
 Figure S9: [multi-target fluorescence imaging]
 
