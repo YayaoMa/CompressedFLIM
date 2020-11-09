@@ -15,4 +15,4 @@ Figure S8: [H&E slide](https://figshare.com/s/d60e9d4c93739800ecdd)
 
 Figure S9: [multi-target fluorescence imaging]
 
-Figure S10: [fluorescence tissue paper]
+Figure S10: [fluorescence tissue paper](https://figshare.com/s/7a00aad937bf755b5789)
