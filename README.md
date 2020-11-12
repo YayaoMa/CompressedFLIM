@@ -3,16 +3,14 @@ High-speed compressed-sensing fluorescence lifetime imaging microscopy of live c
 
 ### Relevant Data files:
 
-Figure 2: [Fluorescence beads](https://figshare.com/s/bc47b2de1b0b75fadf51)
+1.[Fluorescence tissue paper](https://figshare.com/s/7a00aad937bf755b5789)
 
-Figure 3: [Neuron cytoskeleton](https://figshare.com/s/79f146a197f8b24fe0e3)
+2.[H&E slide](https://figshare.com/s/d60e9d4c93739800ecdd)
 
-Figure 4: [Neuron spiking](https://ucla.box.com/s/74js5jc1833zgft9p7qr3mr4elo7hv0m)
+3.[Neuron spiking](https://ucla.box.com/s/74js5jc1833zgft9p7qr3mr4elo7hv0m)
 
-Figure S6-S7: [Cardiomyocyte beating](https://ucla.box.com/s/ay4eckqswv7pqcwtnpksazm8ddo8kchp)
+4.[Cardiomyocyte beating](https://ucla.box.com/s/ay4eckqswv7pqcwtnpksazm8ddo8kchp)
 
-Figure S8: [H&E slide](https://figshare.com/s/d60e9d4c93739800ecdd)
+5.[Fluorescence beads](https://figshare.com/s/bc47b2de1b0b75fadf51)
 
-Figure S9: [Multi-target fluorescence imaging]( https://figshare.com/s/645e16de259861039c0c)
-
-Figure S10: [Fluorescence tissue paper](https://figshare.com/s/7a00aad937bf755b5789)
+6.[Neuron cytoskeleton](https://figshare.com/s/79f146a197f8b24fe0e3)
