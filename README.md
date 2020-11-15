@@ -1,4 +1,4 @@
-# CompressedFLIM
+# Compressed FLIM
 
 ### Data files
 
