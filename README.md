@@ -11,6 +11,4 @@ High-speed compressed-sensing fluorescence lifetime imaging microscopy of live c
 
 4.    [Cardiomyocyte beating](https://ucla.box.com/s/ay4eckqswv7pqcwtnpksazm8ddo8kchp)
 
-5.    [Fluorescence beads](https://figshare.com/s/bc47b2de1b0b75fadf51)
 
-6.    [Neuron cytoskeleton](https://figshare.com/s/79f146a197f8b24fe0e3)
